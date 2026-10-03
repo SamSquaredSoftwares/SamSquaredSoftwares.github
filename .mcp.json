@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "kimi-cu": {
+      "command": "C:\\Users\\samga\\AppData\\Local\\KimiCU\\kimi-cu.exe",
+      "args": ["mcp"],
+      "type": "stdio"
+    }
+  }
+}
